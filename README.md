@@ -28,9 +28,7 @@ TimeWise works **backward from your deadline** and provides continuous visual fe
 - Reverse scheduling (works backward from deadline)
 - Color-coded visual feedback
 - Customizable audio alerts
-- 🧠 Adaptive learning algorithm
-- 📱 Progressive Web App (installable)
-- 🔒 Screen wake lock (stays on during timers)
-- 💾 Works offline
+- Adaptive learning algorithm
+- Screen wake lock (stays on during timers)
 
-Built with ❤️ for the ADHD community.
+Built with ❤️ for the ADHD community from an ADHD mom.
