@@ -1,0 +1,48 @@
+{
+  "name": "TimeWise: ADHD",
+  "short_name": "TimeWise",
+  "description": "A time management app designed for ADHD time blindness with visual cues and adaptive learning",
+  "start_url": "/timewiseadhd/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#06b6d4",
+  "orientation": "portrait",
+  "categories": ["productivity", "health", "lifestyle"],
+  "screenshots": [
+    {
+      "src": "/timewiseadhd/screenshot-wide.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "/timewiseadhd/screenshot-narrow.png", 
+      "sizes": "640x1136",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
+  ],
+  "icons": [
+    {
+      "src": "/timewiseadhd/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/timewiseadhd/icon-512.png",
+      "sizes": "512x512", 
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/timewiseadhd/icon-apple-touch.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "features": [
+    "wake-lock",
+    "notifications"
+  ]
+}
