@@ -1,10 +1,10 @@
-# TimeWise: ADHD 🧠⏰
+# TimeWise: ADHD 🧠
 A time management app designed specifically for ADHD time blindness with visual cues and adaptive learning.
 
-## 🎯 The Problem
+## The Problem
 People with ADHD often struggle with "time blindness" - difficulty sensing how much time has passed or remains. Traditional timers don't provide enough awareness until it's too late.
 
-## ✨ The Solution
+##The Solution
 TimeWise works **backward from your deadline** and provides continuous visual feedback:
 
 ### How It Works:
@@ -18,18 +18,16 @@ TimeWise works **backward from your deadline** and provides continuous visual fe
 5. **Audio alerts** - Gentle beeps at transitions, distinct alarm when time's up
 6. **Learns from you** - Tracks how long tasks actually take and adjusts future estimates
 
-## 🚀 Try It Live
+## Try It Live
 **[Launch TimeWise: ADHD](https://holley013.github.io/timewiseadhd/)**
 
-## 📱 Install as App
+## Install to Your Device
 - **On mobile**: Visit the link and tap "Add to Home Screen" 
-- **On desktop**: Look for the install icon in your browser
-- Works offline once installed!
 
-## 🌟 Features
-- ⏰ Reverse scheduling (works backward from deadline)
-- 🎨 Color-coded visual feedback
-- 🔊 Customizable audio alerts
+## Features
+- Reverse scheduling (works backward from deadline)
+- Color-coded visual feedback
+- Customizable audio alerts
 - 🧠 Adaptive learning algorithm
 - 📱 Progressive Web App (installable)
 - 🔒 Screen wake lock (stays on during timers)
